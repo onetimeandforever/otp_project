@@ -1,3 +1,2 @@
 # otp_project
-I just almost complete the login page and try to use the firebase in the project. There are all i can do.
-Just copy 3 files and patse to any new project and run
+the project is running well, but this is the new project so the firebase only accept 50 quota a day.all can do is just download the files and paste on the folder was already created by create-react-app to start.
